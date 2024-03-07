@@ -1,3 +1,3 @@
-#1 Игра Aggressive animals
+# Игра Aggressive animals
 
 - В игре реализован object pooling
